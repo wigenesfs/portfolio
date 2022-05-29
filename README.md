@@ -1,2 +1,2 @@
 # wigenessampaio
-Página para demonstração do meu portifólio
+Página para demonstração do meu portfólio
